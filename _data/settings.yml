@@ -1,6 +1,6 @@
 audit_header: false
-title:
-description: -- CLIENT NAME --, a top Real Estate Agent in -- MARKET --, shares his/her own internal real estate agent training for free. His/Her Real Estate Training, Tips and Advice will help you sell more homes in less time.
+title: Central Michigan's Best Real Estate Training
+description: Mary Peacock, a top Real Estate Agent in Central Michigan, shares her own internal real estate agent training for free. Her Real Estate Training, Tips and Advice will help you sell more homes in less time.
 show_custom_links: true
 custom_links:
   - title: Join Our Team
@@ -14,21 +14,21 @@ custom_links:
 
 
 client:
-  name:
+  name: Mary Peacock
   title:
   license_number:
   about_markdown: |
-
-  market:
-  brand:
+    Mary Peacock has provided buyers and sellers with trusted support and service for years. Her experience in the real estate market will be your best asset in making smart and economically sound real estate decisions. She prides herself on offering the very best customer service to her clients. If you are selling, Mary will ensure that your home gets the attention necessary to properly promote it in the marketplace. For buyers, she will exhaust all of her resources to assist in finding the perfect home you've been looking for. If you want someone that will be there full-time, all the time - and will provide direct support for your real estate needs - look no further than Mary Peacock.
+  market: Central Michigan
+  brand: Peacock Real Estate
   brokerage:
-  address:
-  phone:
+  address: 18030 3 Mile Rd. Morley, MI 49336
+  phone: 231.856.4456
   phone_type:
   phone2:
   phone2_type:
-  email:
-  url:
+  email: Mary@PeacockRealEstate.com
+  url: https://PeacockRealEstate.com
 
 lender:
   show_section: false
@@ -44,11 +44,11 @@ lender:
 
 socials:
   review_sm_icons: false
-  facebook_url:
-  linkedin_url:
-  gplus_url:
-  youtube_url:
-  twitter_url:
+  facebook_url: https://www.facebook.com/LetsMoveWithMary
+  linkedin_url: https://www.linkedin.com/pub/mary-peacock/43/263/3b2
+  gplus_url: https://plus.google.com/100135352906823771182/
+  youtube_url: https://www.youtube.com/channel/UCIVA0e2lla9fgs-5QcTJHsw
+  twitter_url: https://twitter.com/thepeacockteam
   instagram_url:
   pinterest_url:
   zillow_url:
@@ -74,8 +74,8 @@ images:
   hero_image_path: /img/background.jpg
   post_cover: /img/cover.jpg
 site_colors:
-  brand_color: '#b40101'
-  theme_color: '#999'
+  brand_color: '#00aaa6'
+  theme_color: '#00628c'
   theme_text_color: '#5d9bd3'
   main_body_color: '#ffffff'
   main_body_text_color: '#353535'
