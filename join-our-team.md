@@ -14,9 +14,9 @@ permalink: /join-our-team/
 <figcaption class="caption">{{site.data.settings.client.name}}</figcaption>
 </div>
 
-<p>Dear Future or Current Real Esta</p>te Agent,
+<p>Dear Future or Current Real Estate Agent,</p>
 
-<p>It is so stifling to work in a job that lacks opportunities for growth and advancement. I’ve been there before—juggling hundreds of different tasks all by myself, without coaching o</p>r a team to back me up.
+<p>It is so stifling to work in a job that lacks opportunities for growth and advancement. I’ve been there before—juggling hundreds of different tasks all by myself, without coaching or a team to back me up.</p>
 
 <p>When you stretch yourself so thin, how could you possibly give your clients the level of service they deserve? Perhaps you lay awake at night, wondering how you’ll make ends meet and where your next leads will come from. You could always buy your own leads, but is spending money on your job worth it if you’re not doing enough business to provide for yourself or your family? You might also bounce from brokerage to brokerage, hoping that each one will have the answers to your problems. If this is the case, you might be considering leaving real estate altogether.</p>
 
