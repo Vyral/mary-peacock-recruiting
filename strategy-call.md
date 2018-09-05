@@ -34,7 +34,7 @@ permalink: /strategy-call/
 
 <p>This will help you get the commission consistency and the freedom we all want from our business.</p>
 
-<hr>
+<!-- <hr>
 <div class="qanda">
 <p class="section-title">Here’s what a few agents say about working with me…</p>
 
@@ -47,7 +47,7 @@ permalink: /strategy-call/
 <p><span class="quote"></span><br>
 <span class="author"></span></p>
 </div>
-<hr>
+<hr> -->
 
 <p>You don’t need to pay a bunch of money to a real estate coach.</p>
 
