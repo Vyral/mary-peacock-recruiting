@@ -34,20 +34,18 @@ permalink: /strategy-call/
 
 <p>This will help you get the commission consistency and the freedom we all want from our business.</p>
 
-<!-- <hr>
+<hr>
 <div class="qanda">
 <p class="section-title">Here’s what a few agents say about working with me…</p>
 
-<p><span class="quote"></span><br>
-<span class="author"></span></p>
+<p><span class="quote">My training with Mary was very extensive and educational.  I still have not stopped learning.</span><br>
+<span class="author">- Marisa Douglas</span></p>
 
-<p><span class="quote"></span><br>
-<span class="author"></span></p>
-
-<p><span class="quote"></span><br>
-<span class="author"></span></p>
+<p><span class="quote">My success as a realtor at Peacock Real Estate is due to the superb training that I endure every day in our daily huddles.
+From setting yearly, monthly, and daily goals, I feel it helps me focus.</span><br>
+<span class="author">- Dee Walters</span></p>
 </div>
-<hr> -->
+<hr>
 
 <p>You don’t need to pay a bunch of money to a real estate coach.</p>
 
