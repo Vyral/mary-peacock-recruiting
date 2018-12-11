@@ -2667,6 +2667,11 @@ form select {
 .newsletter {
   background: #00577d; }
 
+.mentoring {
+  display: block;
+  margin: 0 auto;
+  width: 90%; }
+
 #side-logo {
   width: 90%;
   margin: 0 auto; }
