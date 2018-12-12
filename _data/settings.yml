@@ -72,6 +72,7 @@ images:
   hero_text: -- MARKET -- Real Estate Video Blog
   hero_background_hex: '#999'
   hero_image_path: /img/background.jpg
+  hero_image_path2: /img/background2.jpg
   post_cover: /img/cover.jpg
 site_colors:
   brand_color: '#00aaa6'
