@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A Few Tips for Staying in Touch With Your Database
-date:
+date: 2018-12-18 19:46:26
 tags:
   - Database
 excerpt: >-
