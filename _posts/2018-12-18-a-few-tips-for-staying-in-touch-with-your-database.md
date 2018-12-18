@@ -23,7 +23,7 @@ Today I want to talk to you about staying in touch with your database.
 
 I haven’t done a great job at keeping up with my database in the past. I’ll be the first to admit that. **However, here’s what I’ve done to improve that since.**
 
-<br>**I make sure that I send my database something of value to them on a regular basis.** I send out videos twice a month that give real estate tips for buyers, sellers, and everyone in between. I also hold client events three times per year and make sure to invite everyone in the database. A lot of our clients really enjoy these events.
+**I make sure that I send my database something of value to them on a regular basis.** I send out videos twice a month that give real estate tips for buyers, sellers, and everyone in between. I also hold client events three times per year and make sure to invite everyone in the database. A lot of our clients really enjoy these events.
 
 {% include pullquote.html %}
 
