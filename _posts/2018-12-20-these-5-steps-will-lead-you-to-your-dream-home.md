@@ -21,14 +21,10 @@ youtube_code: GrPSrFaBmDA
 
 There are a few steps you should take as you prepare to embark on your home search, and we’ll be highlighting five of them today.&nbsp;
 
-Get pre-approved. This way, you’ll gain an understanding of what kind of property you can afford.&nbsp;
-
-<br>Separate your wants and needs. Each of these is important, but understanding what is a necessity and what is simply a preference will help guide your search.&nbsp;
-
-<br>Choose and research the area you want to live in.&nbsp;
-
-<br>Pick the style of house you like and stick to it.
-
-<br>Document your visit each time you go see a listing.&nbsp;
+1. **Get pre-approved.** This way, you’ll gain an understanding of what kind of property you can afford.&nbsp;
+2. **Separate your wants and needs.** Each of these is important, but understanding what is a necessity and what is simply a preference will help guide your search.&nbsp;
+3. **Choose and research the area you want to live in.&nbsp;**
+4. **Pick the style of house you like and stick to it.**
+5. **Document your visit each time you go see a listing.&nbsp;**
 
 If you have any other questions, would like more information, or would like to hear more tips on buying a home, feel free to give me a call or send me an email. I look forward to hearing from you soon.<br>&nbsp;
