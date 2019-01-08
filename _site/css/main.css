@@ -1515,7 +1515,7 @@ label.tree-toggle {
 
 #hero {
   background-position: center;
-  background-size: cover;
+  background-size: 100%;
   background-attachment: fixed;
   background-repeat: no-repeat;
   text-align: center;
@@ -2670,7 +2670,7 @@ form select {
 .mentoring {
   display: block;
   margin: 0 auto;
-  width: 90%; }
+  width: 100%; }
 
 #side-logo {
   width: 90%;
@@ -2685,7 +2685,15 @@ form select {
 .testimonial-author {
   color: #00aaa6;
   margin-top: -20px; }
+  .testimonial-author .no-header {
+    padding-top: 100px; }
 
+@media (max-width: 1100px) {
+  .no-header {
+    padding-top: 150px; } }
+@media (max-width: 760px) {
+  .no-header {
+    padding-top: 80px; } }
 .recruiting {
   text-align: center; }
 

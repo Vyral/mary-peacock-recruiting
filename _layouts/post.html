@@ -22,6 +22,7 @@
 
 	<main>
 		<!-- <div class="container"> -->
+		{% include mentoring.html %}
 			<div class="row post-container">
 				<a href="{{page.url}}"><h1 class="post-title" itemprop="name headline">{{page.title}}</h1></a>
 				<time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished" style="display: none;">{{ page.date | date: "%b %-d, %Y" }}</time>
