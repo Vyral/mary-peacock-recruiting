@@ -3,6 +3,7 @@ layout: post
 title: How Was the 2018 Market and How Will 2019 Be Different?
 date:
 tags:
+  - Market Update
 excerpt: How was the 2018 real estate market? Find out by watching today’s message.
 enclosure: >-
   https://s3.amazonaws.com/vyralmarketing/Mary+Peacock/West+Central+Michigan+Real+Estate+Agent-+Review+of+2018.mp4
