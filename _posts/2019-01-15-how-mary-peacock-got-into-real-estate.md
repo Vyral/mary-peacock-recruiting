@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How Mary Peacock Got into Real Estate
-date:
+date: 2019-01-15 20:17:11
 tags:
 excerpt:
 enclosure:
