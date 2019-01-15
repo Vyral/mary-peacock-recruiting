@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How Was the 2018 Market and How Will 2019 Be Different?
-date:
+date: 2019-01-15 20:38:08
 tags:
   - Market Update
 excerpt: How was the 2018 real estate market? Find out by watching today’s message.
