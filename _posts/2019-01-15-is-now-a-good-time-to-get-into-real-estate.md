@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Is Now a Good Time to Get Into Real Estate?
-date:
+date: 2019-01-15 20:44:47
 tags:
   - Real Estate
 excerpt: >-
