@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Our Pest Control Policy Explained
+title: Is Now a Good Time to Get Into Real Estate?
 date:
 tags:
 excerpt:
@@ -12,6 +12,7 @@ use_youtube_image: true
 youtube_alternate_image:
 youtube_code:
 ---
+
 {% include youtube.html %}
 
 {% include pullquote.html %}
