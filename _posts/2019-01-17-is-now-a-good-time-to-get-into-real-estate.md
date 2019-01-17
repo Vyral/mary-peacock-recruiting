@@ -18,4 +18,4 @@ youtube_code: R6GBPrcec4o
 
 {% include youtube.html %}
 
-Many people are wondering whether now is a good time to get started in real estate. Here’s the truth: If you’ve been consider a career in this industry, there’s no time like the present. Real estate is a challenging industry, but it’s also a rewarding one. There are endless opportunities for those willing to work for the potential rewards of a real estate career. I would be more than happy to speak with you about these opportunities, so feel free to get in touch.
+Many people are wondering whether now is a good time to get started in real estate. Here’s the truth: If you’ve been considering a career in this industry, there’s no time like the present. Real estate is a challenging industry, but it’s also a rewarding one. There are endless opportunities for those willing to work for the potential rewards of a real estate career. I would be more than happy to speak with you about these opportunities, so feel free to get in touch.
