@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Benefits of Working With a Real Estate Team
-date:
+date: 2019-02-04 16:40:56
 tags:
 excerpt: >-
   Working alone can severely limit your productivity. Here’s why working with a
