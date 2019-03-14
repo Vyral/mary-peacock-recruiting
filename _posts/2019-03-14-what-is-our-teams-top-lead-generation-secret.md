@@ -1,9 +1,11 @@
 ---
 layout: post
 title: What Is Our Team’s Top Lead Generation Secret?
-date: 2019-03-14 18:38:46
+date: 2019-03-14 18:38:00
 tags:
-excerpt:
+excerpt: >-
+  If you’re like most agents, then the desire to help people is probably at
+  least partially behind your decision to enter our industry.
 enclosure:
 pullquote:
 enclosure_type: video/mp4
