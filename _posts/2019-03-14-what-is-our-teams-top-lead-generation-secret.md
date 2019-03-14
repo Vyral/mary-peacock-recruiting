@@ -13,13 +13,13 @@ youtube_alternate_image: /uploads/logo1--1-.png
 youtube_code:
 ---
 
-**Identify Your Sphere of Influence! (Building your first contact list) **
+**Identify Your Sphere of Influence! (Building your first contact list)&nbsp;**
 
 Ever hear the expression, “It’s not what you know, it’s *who* you know?” When you’re a new real estate agent, this is somewhat true! While a real estate career involves many skills, this business is all about helping people.
 
 As a new agent, you’ll start by offering to help people you already know! Social media makes building your contact list easy. You’re probably connected to hundreds of people already!
 
-**But first, decide *where* and *how* you’re going keep this contact list, because your business launch depends on it. **
+*\*But first, decide \*where* and *how* you’re going keep this contact list, because your business launch depends on it. \*\*
 
 You can use a [contact app](https://www.businessnewsdaily.com/5891-5-iphone-apps-to-manage-your-business-contacts.html), or if you prefer, you can use an Excel or Numbers spreadsheet. Microsoft Outlook or Gmail works great too!
 
@@ -73,7 +73,7 @@ There are no hard and fast rules about real estate career announcements. **Howev
 
 Because of this, I usually recommend a different approach.
 
-**DO:** The best strategy often begins with offering valuable information to your contacts, right out of the gate!&nbsp;You can access this info through your MLS and through public sources.
+**DO:** The best strategy often begins with offering valuable information to your contacts, right out of the gate! You can access this info through your MLS and through public sources.
 
 Why send a postcard saying, “Hello, I’m a new agent!” …
 
