@@ -21,7 +21,7 @@ Ever hear the expression, “It’s not what you know, it’s *who* you know?”
 
 As a new agent, you’ll start by offering to help people you already know! Social media makes building your contact list easy. You’re probably connected to hundreds of people already!
 
-*\*But first, decide \*where* and *how* you’re going keep this contact list, because your business launch depends on it. \*\*
+**But first, decide *where* and *how* you’re going keep this contact list, because your business launch depends on it.&nbsp;**
 
 You can use a [contact app](https://www.businessnewsdaily.com/5891-5-iphone-apps-to-manage-your-business-contacts.html), or if you prefer, you can use an Excel or Numbers spreadsheet. Microsoft Outlook or Gmail works great too!
 
@@ -35,7 +35,7 @@ Your list should include:
 * Mailing address
 * Phone number
 
-You may need to jog your memory at times. When you find yourself running out of names, starting thinking in terms of category:
+You may need to jog your memory at times. When you find yourself running out of names, starting thinking in terms of categories:
 
 * Relatives
 * Friends from high school/college
@@ -67,7 +67,7 @@ And you’ll get a resounding whoop-de-doo from the vast majority.
 
 Rare is the person who will step forward and volunteer to be your very first home seller, just to help you out. They stand to lose big if you mess up. So if you want people to avoid you like a telemarketer, tell them you’re new in real estate and look desperate for business.
 
-**Exception:** IF you already had a connection to the real estate business or other pertinent background, a new career announcement could make total sense. If you’ve been a real estate investor, mortgage broker, home stager, financial advisor or similar professional, you may enjoy instant credibility.
+**Exception:** If you already had a connection to the real estate business or another pertinent background, a new career announcement could make total sense. If you’ve been a real estate investor, mortgage broker, home stager, financial advisor or similar professional, you may enjoy instant credibility.
 
 Also, if you have a highly recognized name in your community, your announcement may be of local interest and newsworthy, and therefore well-received.
 
@@ -85,6 +85,6 @@ See what I mean? We all want to know someone on the “inside” who will give u
 
 We’ll talk more about messaging and scripts in an upcoming post! For now, if you have your contact list ready, but need help with the next step, [contact me for my personal strategies](https://midmichiganrealestatecareers.com/contact){: target="_blank"}!
 
-Looking for more ways to grow your real estate business and increase your income? See my strategies at [MidMichiganRealEstateCareers.com](https://midmichiganrealestatecareers.com/){: target="_blank"}, and follow the Facebook page, [https://www.facebook.com/midmichiganrealestatecareers/](https://www.facebook.com/midmichiganrealestatecareers/){: target="_blank"}!
+Looking for more ways to grow your real estate business and increase your income? See my strategies at [MidMichiganRealEstateCareers.com](https://midmichiganrealestatecareers.com/){: target="_blank"}, and follow the Facebook page, [https://www.facebook.com/midmichiganrealestatecareers](https://www.facebook.com/midmichiganrealestatecareers){: target="_blank"}!
 
 Ready to take your career to the next level? Peacock Real Estate provides exceptional training and mentoring to help your real estate business thrive! Call 231-856-4456 or [message me](https://midmichiganrealestatecareers.com/contact){: target="_blank"} for more information!
