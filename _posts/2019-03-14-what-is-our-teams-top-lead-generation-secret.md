@@ -19,13 +19,13 @@ youtube_code:
 
 Ever hear the expression, “It’s not what you know, it’s *who* you know?” When you’re a new real estate agent, this is somewhat true! While a real estate career involves many skills, this business is all about helping people.
 
-As a new agent, you’ll start by offering to help people you already know! Social media makes building your contact list easy. You’re probably connected to hundreds of people already!
+As a new agent, you’ll start by offering to help people you already know. Social media makes building your contact list easy. You’re probably connected to hundreds of people already!
 
 **But first, decide *where* and *how* you’re going keep this contact list, because your business launch depends on it.&nbsp;**
 
 You can use a [contact app](https://www.businessnewsdaily.com/5891-5-iphone-apps-to-manage-your-business-contacts.html), or if you prefer, you can use an Excel or Numbers spreadsheet. Microsoft Outlook or Gmail works great too!
 
-Whatever method you choose, it should be easy to access, edit and update. In the near future, you’ll be importing this data into a CRM database. (Client Relationship Management system.)
+Whatever method you choose, it should be easy to access, edit, and update. In the near future, you’ll be importing this data into a CRM database (Client Relationship Management system.)
 
 Your list should include:
 
@@ -61,9 +61,7 @@ You’ll still contact everyone at least once - but now you can customize some o
 
 **Do’s and Don’ts of contacting people as a new agent:**
 
-**Don’t:** Typical advice to new agents goes something like this: “Send a career announcement postcard to everyone you know, telling them you’re in real estate!”
-
-And you’ll get a resounding whoop-de-doo from the vast majority.
+**Don’t:** Typical advice to new agents goes something like this: “Send a career announcement postcard to everyone you know, telling them you’re in real estate—you’ll get a resounding whoop-de-doo from the vast majority.
 
 Rare is the person who will step forward and volunteer to be your very first home seller, just to help you out. They stand to lose big if you mess up. So if you want people to avoid you like a telemarketer, tell them you’re new in real estate and look desperate for business.
 
@@ -71,7 +69,7 @@ Rare is the person who will step forward and volunteer to be your very first hom
 
 Also, if you have a highly recognized name in your community, your announcement may be of local interest and newsworthy, and therefore well-received.
 
-There are no hard and fast rules about real estate career announcements. **However, keep in mind that once your announcement has identified you as a “newbie,” you could spend a lot of time, energy and marketing money trying to overcome that impression.**
+There are no hard and fast rules about real estate career announcements. **However, keep in mind that once your announcement has identified you as a “newbie,” you could spend a lot of time, energy, and marketing money trying to overcome that impression.**
 
 Because of this, I usually recommend a different approach.
 
