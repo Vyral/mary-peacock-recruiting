@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Stay Top of Mind with Leads and Clients!
-date:
+date: 2019-04-22 19:10:56
 tags:
 excerpt:
 enclosure:
@@ -15,9 +15,9 @@ youtube_code:
 
 Once you have leads through your networking efforts, and you’ve started to pull in clients, you must work to keep them\! Your competition in the real estate business is fierce. Without continual attention, the leads and clients you’ve worked so hard to obtain could simply forget about you.
 
-Staying “top of mind” with your contacts means helping them remember you. The goal is to have them think of you first and foremost whenever they need to buy or a sell a home—whether that's in eight weeks or eight years\! &nbsp;
+Staying “top of mind” with your contacts means helping them remember you. The goal is to have them think of you first and foremost whenever they need to buy or a sell a home—whether that's in eight weeks or eight years\!  
 
-**Repeat business and referrals are the lifeblood of any real estate agent’s career.** But you can’t simply do a great job once and expect clients to automatically remember your name, brokerage, and contact info years after the fact.&nbsp;
+**Repeat business and referrals are the lifeblood of any real estate agent’s career.** But you can’t simply do a great job once and expect clients to automatically remember your name, brokerage, and contact info years after the fact. 
 
 However, staying in contact with leads and clients doesn’t mean advertising to them relentlessly. Nobody wants that\!
 
@@ -29,23 +29,23 @@ A phone call is fine, but emails or postcards may be more memorable. You can exp
 
 2\. Recognizing your clients’ birthdays, anniversaries, and other special dates. These touchpoints will be infrequent, perhaps two or three times a year, but they are impactful. Send greeting cards in the mail with a short, hand-written note inside.
 
-3\. Share community happenings. For example, a short email or social media message might say, “Hi Mary, just wanted to let you know the Summer Art Fair is next month on Saturday, June 5. There’s a lot going on in Lakeville over the next few weeks — I’ll keep you posted\! Hope all is well.”&nbsp;
+3\. Share community happenings. For example, a short email or social media message might say, “Hi Mary, just wanted to let you know the Summer Art Fair is next month on Saturday, June 5. There’s a lot going on in Lakeville over the next few weeks — I’ll keep you posted\! Hope all is well.” 
 
 4\. Sharing real estate news and information. While you might be tempted to make this THE dominant topic, you probably care more about statistics and sales trends more than your audience does.
 
-Agents are hung up on stats because we use them to measure market activity. That doesn’t mean they’ll fascinate your leads or clients month after month.&nbsp;
+Agents are hung up on stats because we use them to measure market activity. That doesn’t mean they’ll fascinate your leads or clients month after month. 
 
 For example, if you’re making contact with your “hot” leads — people who plan to buy or sell a home in less than six months — by all means, educate them about market conditions\!
 
-But if you’re making contact with a prior client who just bought a home last year, it might be too early to start barking statistics at them. If local market values are on the rise, of course you can share that, but there’s a limit to how much it’s worth repeating.&nbsp;
+But if you’re making contact with a prior client who just bought a home last year, it might be too early to start barking statistics at them. If local market values are on the rise, of course you can share that, but there’s a limit to how much it’s worth repeating. 
 
-5\. Sharing do-it-yourself tips, home tips, and general consumer info. &nbsp;
+5\. Sharing do-it-yourself tips, home tips, and general consumer info.  
 
 6\. Mix and rotate your contact reasons and topics\!
 
 **Contact methods for staying top of mind:**
 
-Matching your contact methods with your leads and clients takes thought. There are a variety of contact methods, and certain touchpoints are more suitable for some topics than others. **You also must consider how your clients and leads prefer to receive contact.**&nbsp;
+Matching your contact methods with your leads and clients takes thought. There are a variety of contact methods, and certain touchpoints are more suitable for some topics than others. **You also must consider how your clients and leads prefer to receive contact.** 
 
 You have many communication tools at your disposal, including:
 
@@ -53,9 +53,9 @@ You have many communication tools at your disposal, including:
 
 Once you create the messages you’ll be using and choose the contact methods for conveying them, you’ll want to think about communication frequency:
 
-• Weekly<br>• Monthly<br>• Quarterly&nbsp;<br>• Special dates<br>• Annualually
+• Weekly<br>• Monthly<br>• Quarterly <br>• Special dates<br>• Annualually
 
-Think about why you are contacting your lead or past client. If they plan to buy a new home in the near future, sending frequent emails with links to new listings is certainly appropriate.&nbsp;
+Think about why you are contacting your lead or past client. If they plan to buy a new home in the near future, sending frequent emails with links to new listings is certainly appropriate. 
 
 If they have no intentions of buying or selling a home for the foreseeable future, stick to recognizing them on special dates or holidays. Send them a quarterly newsletter if you wish.
 
