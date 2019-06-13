@@ -3,7 +3,6 @@ layout: post
 title: Overcoming Objections at the Listing Presentation
 date: 2019-06-13 00:00:00
 tags:
-  - Real Estate
 excerpt:
 enclosure:
 pullquote:
