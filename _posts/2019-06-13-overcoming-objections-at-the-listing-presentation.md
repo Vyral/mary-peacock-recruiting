@@ -13,8 +13,6 @@ youtube_alternate_image: /uploads/logo1--1--1.png
 youtube_code:
 ---
 
-{% include youtube.html %}
-
 During the listing presentation, you’ll show your homeowners all the ways you’ll market the property, and explain why they should list their home with you. They listen attentively and nod their heads. All is going smoothly until you ask them to sign the listing agreement….<br>…and suddenly, there are a dozen reasons why they won’t sign right now. What went wrong?
 
 <br>In most cases, nothing\! The sellers may not be ready to commit, despite having the motivation to sell.
