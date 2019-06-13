@@ -6,7 +6,7 @@ tags:
 excerpt:
 enclosure:
 pullquote:
-enclosure_type: video/mp4
+enclosure_type:
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/logo1--1--1.png
