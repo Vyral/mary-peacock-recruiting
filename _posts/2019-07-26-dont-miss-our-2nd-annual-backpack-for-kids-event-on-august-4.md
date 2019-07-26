@@ -3,7 +3,6 @@ layout: post
 title: Don’t Miss Our 2nd Annual Backpack for Kids Event on August 4
 date: 2019-07-26 00:00:00
 tags:
-  - Real Estate
 excerpt: >-
   Our 2nd Annual Backpack for Kids event is coming up, and we’d love for you to
   join us.
