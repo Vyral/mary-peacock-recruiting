@@ -3,7 +3,6 @@ layout: post
 title: Some Tips to Help Get Your Home Ready for Sale
 date: 2019-08-08 00:00:00
 tags:
-  - Real Estate
 excerpt: >-
   In order to get your home ready for sale, you’ll need to do a few things
   first. Here are my recommendations.
