@@ -25,7 +25,7 @@ Fortunately, there are a number of ways to distinguish yourself from other agent
 
 **Location/Market specialties**. This includes specific neighborhoods, regional areas, school districts, vacation areas, lakefront properties, hunting and fishing hotspots, urban cores, or any other place that you have a depth of knowledge about. Your market specialty can be as broad or as targeted as you’d like, but be certain you have the expertise to back it up.
 
-**Home Type specialties.**&nbsp;This includes condominiums and townhomes, active-adult communities, luxury homes, starter homes, hobby farms, new construction, vacation homes and so on.&nbsp;
+**Home Type specialties.** This includes condominiums and townhomes, active-adult communities, luxury homes, starter homes, hobby farms, new construction, vacation homes and so on.&nbsp;
 
 **Client situation specialties**. You can become an expert in handling specific situations that call for specialized care and/or specialized knowledge. Some examples include distressed homeowners (short sales and pre-foreclosures), estate sales, first-time buyers, divorcing homeowners, relocations, retirees, military transfers, real estate investors, celebrities, government workers and home builders.&nbsp;
 
@@ -33,7 +33,7 @@ Fortunately, there are a number of ways to distinguish yourself from other agent
 
 Remember that a niche, or specialty, should emphasize your strongest areas of expertise. If you are a new to the real estate business, specializing in a market area that you know well is a good start.&nbsp;
 
-**Having a niche doesn’t mean you can’t sell other kinds of property, or represent clients from all walks of life.**&nbsp;But, it does allow you to focus on the lines of business that best leverage your interests and knowledge. Here’s an example:
+**Having a niche doesn’t mean you can’t sell other kinds of property, or represent clients from all walks of life.** But, it does allow you to focus on the lines of business that best leverage your interests and knowledge. Here’s an example:
 
 If you are a city person who loves the energy and convenience of urban living, you may have natural enthusiasm for downtown condos. You may know the ins and outs of getting around using public transportation. You would probably have great recommendations for dining, entertainment and night life. You’d also know where the nearest medical center is located, along with other local details. This knowledge is an added value to your clients, who will appreciate your insights.&nbsp;
 
@@ -49,7 +49,7 @@ If your heart is with first-time buyers, be prepared to educate them about the h
 
 You get the idea\! Of course, you can conduct a Google search for an introduction to any topic, but there is no substitute for having personal contacts and resources.&nbsp;
 
-**Working with a mentor can be an effective way to immerse yourself in a specialty.**&nbsp;You’ll get the advantage of hands-on learning, without the risks of trial-and-error that comes with going it alone.&nbsp;
+**Working with a mentor can be an effective way to immerse yourself in a specialty.** You’ll get the advantage of hands-on learning, without the risks of trial-and-error that comes with going it alone.&nbsp;
 
 One important caveat about a niche: don’t just chase the money. Do not choose your niche on something that is perceived as “easy” or the “biggest payday.” Sadly, there are articles all over place – by industry magazines – that tell you how smart it is to only sell luxury homes. The logic being, you’ll make just as much money selling 2 homes a year, as you would selling several smaller-priced homes. Double the money, and half the work, right?&nbsp;
 
@@ -63,8 +63,8 @@ This kind of thing happens all the time. Unless you take command during the list
 
 **Know what you love about the real estate business, and choose your niche accordingly.**
 
-We’ve just scratched the surface with these examples, and there is so much more I could tell you\! If you would like additional information about choosing your niche, or establishing a specialty,&nbsp;[message me](https://midmichiganrealestatecareers.com/contact)&nbsp;for personal assistance\!&nbsp;
+We’ve just scratched the surface with these examples, and there is so much more I could tell you\! If you would like additional information about choosing your niche, or establishing a specialty, [message me](https://midmichiganrealestatecareers.com/contact) for personal assistance\!&nbsp;
 
-Looking for more ways to grow your real estate business and increase your income? See my strategies at&nbsp;[MidMichiganRealEstateCareers.com](https://midmichiganrealestatecareers.com/contact), and follow the Facebook page,&nbsp;[https://www.facebook.com/midmichiganrealestatecareers/\!](https://www.facebook.com/midmichiganrealestatecareers/)
+Looking for more ways to grow your real estate business and increase your income? See my strategies at [MidMichiganRealEstateCareers.com](https://midmichiganrealestatecareers.com/contact), and follow the Facebook page, [https://www.facebook.com/midmichiganrealestatecareers/\!](https://www.facebook.com/midmichiganrealestatecareers/)
 
 Ready to take your career to the next level? Peacock Real Estate provides exceptional training and mentoring to help your real estate business thrive\! Call 231-856-4456 for more information\!&nbsp;
