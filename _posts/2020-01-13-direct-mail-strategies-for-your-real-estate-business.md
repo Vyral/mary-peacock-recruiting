@@ -16,8 +16,6 @@ youtube_alternate_image: /uploads/bigstock--206441023.jpg
 youtube_code:
 ---
 
-{% include youtube.html %}
-
 While social media marketing and online advertising are important, direct mail marketing should be part of your arsenal\! Consider these points:
 
 **Direct mail is tactile**. Your recipient will see and touch the mail you send. Even if they’re going to throw it away, they must handle each piece of mail and examine it. This makes it more memorable than emails or online advertisements, which are easier to discard without a glance.&nbsp;
