@@ -1,10 +1,13 @@
 ---
 layout: post
 title: 'Finding Home Sellers: The Hunt for Leads'
-date: 2020-02-10 22:19:49
+date: 2020-02-10 22:19:00
 tags:
   - Lead Generation
-excerpt:
+excerpt: >-
+  There’s an old saying among real estate brokers: “You have to list to exist.”
+  It’s difficult to run a profitable real estate business if you don’t have
+  listings of your own.
 enclosure:
 pullquote:
 enclosure_type: video/mp4
