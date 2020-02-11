@@ -21,7 +21,7 @@ youtube_code:
 
 There’s an old saying among real estate brokers: “You have to list to exist.” It’s difficult to run a profitable real estate business if you don’t have listings of your own.&nbsp;
 
-In fact, the main reason why the top 10% of real estate agents make 90% of the money is because they dominate the real estate listings in their markets.&nbsp;
+In fact, the main reason why the top 10% of real estate agents make 90% of the money is that they dominate the real estate listings in their markets.&nbsp;
 
 Whenyou hold a listing, you’ll have agents bringing buyers through the door and bringing offers to your table\! But without any listings of your own, you’ll be doing a lot of legwork with a smaller chance of seeing a commission.&nbsp;
 
