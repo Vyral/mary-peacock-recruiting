@@ -1,24 +1,27 @@
 ---
 layout: post
 title: Positive Personality Traits for Real Estate Agents
-date: 2020-03-09 18:20:14
+date: 2020-03-09 18:24:00
 tags:
   - Transaction Management
-excerpt:
+excerpt: >-
+  Real estate is a “people” business, not a numbers game. Unfortunately, in our
+  age of social media, we’ve learned to let memes, “Like” buttons and emoji
+  handle our communication. Interpersonal skills are becoming a lost art!
 enclosure:
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: false
-youtube_alternate_image: /uploads/bigstock-young-elegant-female-agent-con-326209903.jpg
+use_youtube_image: true
+youtube_alternate_image:
 youtube_code:
 ---
 
-Real estate is a “people” business, not a numbers game. Unfortunately, in our age of social media, we’ve learned to let memes, “Like” buttons and emoji handle our communication. Interpersonal skills are becoming a lost art\!
+![](/uploads/bigstock-young-elegant-female-agent-con-326209903.jpg){: width="8122" height="5414"}Real estate is a “people” business, not a numbers game. Unfortunately, in our age of social media, we’ve learned to let memes, “Like” buttons and emoji handle our communication. Interpersonal skills are becoming a lost art\!
 
 The ability to be likable, and to hold a genuine, face-to-face conversation, is a must for any real estate agent. I have 3 golden rules to help you\!
 
-**1\. Be your best self. **
+\*\*1. Be your best self. \*\*
 
 Psychology studies have shown that *authenticity* is a key to earning trust. When people try to act like someone they’re not, they come across as nervous or suspicious.
 
@@ -32,7 +35,7 @@ It usually comes down to personality and how someone presents themselves. If you
 
 With this in mind, if you are genuinely enthused about helping others, and you have a passion for real estate, you’re off to a good start\!
 
-**2\. Cultivate desirable traits. Discard bad habits. **
+\*\*2. Cultivate desirable traits. Discard bad habits. \*\*
 
 There are several traits that send clients running away:
 
@@ -62,7 +65,7 @@ We all know people with one or more of these traits. We may have one or two of t
 
 Being “knowledgeable,” means doing your homework before your client appointments\! Be informed about market conditions and economic trends. Know what’s going on in your community. Be informed about new developments, local amenities and so on.
 
-**3\. Listen more than you speak. **
+\*\*3. Listen more than you speak. \*\*
 
 New agents can be so busy trying to win business that they dominate the conversation, spending the whole appointment talking about themselves\!
 
