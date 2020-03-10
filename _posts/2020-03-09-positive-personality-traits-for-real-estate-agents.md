@@ -17,11 +17,11 @@ youtube_alternate_image:
 youtube_code:
 ---
 
-![](/uploads/bigstock-young-elegant-female-agent-con-326209903.jpg){: width="8122" height="5414"}Real estate is a “people” business, not a numbers game. Unfortunately, in our age of social media, we’ve learned to let memes, “Like” buttons and emoji handle our communication. Interpersonal skills are becoming a lost art\!
+![](/uploads/bigstock-young-elegant-female-agent-con-326209903.jpg){: width="8122" height="5414"}Real estate is a “people” business, not a numbers game. Unfortunately, in our age of social media, we’ve learned to let memes, “Like” buttons, and emoji handle our communication. Interpersonal skills are becoming a lost art\!
 
-The ability to be likable, and to hold a genuine, face-to-face conversation, is a must for any real estate agent. I have 3 golden rules to help you\!
+The ability to be likable, and to hold a genuine, face-to-face conversation, is a must for any real estate agent. I have three golden rules to help you\!
 
-\*\*1. Be your best self. \*\*
+**1. Be your best self. **
 
 Psychology studies have shown that *authenticity* is a key to earning trust. When people try to act like someone they’re not, they come across as nervous or suspicious.
 
@@ -29,13 +29,13 @@ When you are your authentic self, you’ll naturally be more confident and relax
 
 Yet, as a new agent, you might find yourself trying to put on an impression that fits your new *real estate pro* image. This facade seldom works because clients see right through it.
 
-Think about the times you’ve spent interacting with new car salespeople, insurance salespeople, mortgage lenders or other professionals. Think about the professionals you found authentic, and the people who didn’t impress you.
+Think about the times you’ve spent interacting with new car salespeople, insurance salespeople, mortgage lenders, or other professionals. Think about the professionals you found authentic, and the people who didn’t impress you.
 
 It usually comes down to personality and how someone presents themselves. If you like someone, you’re apt to do business with them\!
 
-With this in mind, if you are genuinely enthused about helping others, and you have a passion for real estate, you’re off to a good start\!
+With this in mind, if you are genuinely enthused about helping others and you have a passion for real estate, you’re off to a good start\!
 
-\*\*2. Cultivate desirable traits. Discard bad habits. \*\*
+**2. Cultivate desirable traits. Discard bad habits. **
 
 There are several traits that send clients running away:
 
@@ -63,9 +63,9 @@ We all know people with one or more of these traits. We may have one or two of t
 * Honest
 * Organized
 
-Being “knowledgeable,” means doing your homework before your client appointments\! Be informed about market conditions and economic trends. Know what’s going on in your community. Be informed about new developments, local amenities and so on.
+Being “knowledgeable” means doing your homework before your client appointments\! Be informed about market conditions and economic trends. Know what’s going on in your community. Be informed about new developments, local amenities and so on.
 
-\*\*3. Listen more than you speak. \*\*
+**3. Listen more than you speak. **
 
 New agents can be so busy trying to win business that they dominate the conversation, spending the whole appointment talking about themselves\!
 
