@@ -11,7 +11,8 @@ custom_links:
     url: /strategy-call/
   - title: Free Newsletter
     url: /subscribe/
-
+  - title: Explaining eXp
+    url: /exp/
 
 client:
   name: Mary Peacock
