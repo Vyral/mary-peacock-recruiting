@@ -1,11 +1,12 @@
 ---
 layout: post
 title: Why You Should Text Your Leads
-date: 2021-05-07 09:00:00
+date: 2021-05-10 09:00:00
 tags:
   - Lead Conversion
 excerpt: Here’s why you should both be calling and texting your leads.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Mary+Peacock/Why+You+Should+Text+Your+Leads.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
